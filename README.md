@@ -1,4 +1,4 @@
-# Projeto_Linux_Scritps
+# Projeto_Linux_Scripts
 Contém apenas os scripts que usei para autoamtizar processos no meu projeto linux.
 
 inclui 3 menus:
