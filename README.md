@@ -1,2 +1,10 @@
-# Projeto_Script_Firewall_e_PHP
-Contém apenas uma parte do meu projeto | Encontra-se aqui presente o script que trata da parte da firewall e php
+# Projeto_Linux_Scritps
+Contém apenas os scripts que usei para autoamtizar processos no meu projeto linux.
+
+inclui 3 menus:
+
+- Instalação de serviços
+- Verificação e testes dos serviços
+- Serviço de backup
+
+
